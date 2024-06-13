@@ -1,0 +1,76 @@
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.maindiv{
+    display: flex; 
+    width: 2000px;
+}
+.button1{
+    margin-left: 780px;
+    margin-top: 20px;
+ }
+ .button1 button{
+    height: 30px;
+    width: 150px;
+     background-color: red;
+    color: white;
+    border-radius: 30px;
+    border-color: transparent;
+ }
+ .button2{
+    margin-left: 30px;
+    margin-top: 20px; 
+  }
+ .button2 button{
+    height: 30px;
+    width: 100px;
+     background-color: red;
+    color: white;
+    border-radius: 30px;
+    border-color: transparent;
+ }
+  form input{
+    margin-top: 50px;
+    padding: 5px;
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+  }
+  .btn{
+    height: 50px;
+   margin-top: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+  }
+  .maindiv2{
+    display: flex;
+    padding-left: 20px;
+  }
+  .maindiv2 button{
+    height: 30px;
+    margin-top: 10px;
+    width: 80px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+#btn{
+    cursor: pointer;
+}
+table{
+         
+}
+
+
+
+
+
+
+
+  /*.maindiv3{
+    display: flex;
+    justify-content: space-between; 
+    height: 60px;
+    width: 2000px;
+    background-color: lightgrey;
+  }
